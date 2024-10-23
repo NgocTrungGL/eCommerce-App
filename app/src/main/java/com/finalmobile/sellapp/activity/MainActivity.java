@@ -73,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
         apiBanHang = RetrofitClient.getInstance(Utils.BASE_URL).create(ApiBanHang.class);
+        Anhxa();
         if (isConnected(this))
         {
             ActionViewFlipper();
