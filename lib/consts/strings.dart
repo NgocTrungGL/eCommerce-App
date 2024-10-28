@@ -34,3 +34,13 @@ const searchanything = "Search anything...",
     boysGlasses = "Boys Glasses",
     featuredProduct = "Featured Products",
     tShirts = "T-Shirts";
+
+const womenClothing = "Women Clothing",
+    menClothingFashion = "Men Clothing & Fashion",
+    compAcesses = "Computer & Acessories",
+    automobile = "Automobile",
+    kidtoys = "Kids & Toys",
+    sports = "Sports",
+    jewelery = "Jewelery",
+    cellphone = "Cellphone & Tab",
+    funiture = "Funiture";
