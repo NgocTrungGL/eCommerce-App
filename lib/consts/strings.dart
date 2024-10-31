@@ -16,6 +16,7 @@ const loginWith = "Log in with";
 const privacyPolicy = "Privacy Policy";
 const temAndCond = "Terms and Conditions";
 const alreadyHaveAccount = "Already have an account? ";
+const logout = "Log Out";
 const home = "Home",
     categories = "Categories",
     cart = "Cart",
@@ -44,3 +45,11 @@ const womenClothing = "Women Clothing",
     jewelery = "Jewelery",
     cellphone = "Cellphone & Tab",
     funiture = "Funiture";
+
+const video = "Video",
+    reviews = "Reviews",
+    sellerpolicy = "Seller Policy",
+    supportPolicy = "Supports Policy",
+    returnPolicy = "Return Policy",
+    productyoumaylike = "Products you may also like";
+const wishlist = "My Wishlist", orders = "My Orders", message = "Messages";

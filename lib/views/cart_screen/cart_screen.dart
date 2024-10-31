@@ -1,3 +1,5 @@
+import 'package:emart_app/consts/consts.dart';
+import 'package:emart_app/consts/lists.dart';
 import 'package:flutter/material.dart';
 
 class CartScreen extends StatelessWidget {
@@ -6,7 +8,12 @@ class CartScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: Colors.purple,
+      color: Colors.white,
+      child: "Cart is empty"
+          .text
+          .fontFamily(semibold)
+          .color(darkFontGrey)
+          .makeCentered(),
     );
   }
 }
